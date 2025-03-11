@@ -13,7 +13,8 @@ Set up of an Active Directory home lab environment using Oracle Virtual Box.<br 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b> (24H2)
+- <b>Server 2019</b>
 
 <h2>Program walk-through:</h2>
 
