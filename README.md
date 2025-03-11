@@ -1,6 +1,8 @@
 <h1>Active DIrectory Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<!--
+ ### [YouTube Demonstration]("insert youtube URL")
+--!>
 
 <h2>Description</h2>
 Set up of an Active Directory home lab environment using Oracle Virtual Box.<br />
@@ -16,6 +18,7 @@ Set up of an Active Directory home lab environment using Oracle Virtual Box.<br 
 - <b>Windows 11</b> (24H2)
 - <b>Server 2019</b>
 
+<!--
 <h2>Program walk-through:</h2>
 
 <p align="center">
@@ -46,7 +49,7 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+--!>
 <!--
  ```diff
 - text in red
